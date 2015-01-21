@@ -20,5 +20,5 @@ def main():
 
 	mlc = MediaLibraryCondenser(args.config)
 
-if __name__ = '__main__':
+if __name__ == '__main__':
 	main()
